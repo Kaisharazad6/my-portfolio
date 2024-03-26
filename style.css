@@ -87,7 +87,7 @@ section{
 .hero{
     height: 100vh;
     width: 98%;
-    background: url(../port/Picsart_24-03-25_00-02-36-671.jpg);
+    background: url(./Picsart_24-03-25_00-02-36-671.jpg);
     background-position: top right;
     background-size: cover;
     display: flex;
